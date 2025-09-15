@@ -2,4 +2,5 @@ streamlit>=1.32
 cadquery
 streamlit-stl
 numpy<2
+pyarrow<15
 
