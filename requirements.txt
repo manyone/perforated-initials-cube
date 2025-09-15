@@ -1,0 +1,12 @@
+# Core UI
+streamlit>=1.36.0
+
+# 3D modeling
+cadquery>=2.3
+
+# STL preview in Streamlit
+streamlit-stl>=0.0.5
+
+# Geometry/math support
+numpy<2
+pyarrow<16
