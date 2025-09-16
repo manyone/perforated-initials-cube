@@ -3,7 +3,7 @@ streamlit>=1.36.0
 
 # 3D modeling
 cadquery>=2.3
-cadquery-ocp==7.7.2
+cadquery-ocp>=7.0
 # STL preview in Streamlit
 streamlit-stl>=0.0.5
 
