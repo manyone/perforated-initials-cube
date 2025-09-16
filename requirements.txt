@@ -9,4 +9,4 @@ streamlit-stl>=0.0.5
 
 # Geometry/math support
 numpy<2
-pyarrow<15
+
